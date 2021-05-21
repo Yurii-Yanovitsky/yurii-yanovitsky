@@ -8,9 +8,10 @@
 
 C#, ASP.NET Core (MVC),
 Entity Framework Core,
-SQL (Transact-SQL)
-Visual Studio, GitHub</br>
-Basic knowledge: HTML5/CSS3
+SQL (Transact-SQL),
+HTML5/CSS3,
+JavaScript,
+Visual Studio, GitHub
 
 
 📭 Contact me:
