@@ -11,6 +11,13 @@ Entity Framework Core,
 SQL (Transact-SQL),
 HTML5/CSS3,
 JavaScript,
+TypeScript,
+React,
+TailwindCSS,
+Storybook,
+Webpack,
+Jest,
+Microfrontends architecture,
 Visual Studio, GitHub
 
 
